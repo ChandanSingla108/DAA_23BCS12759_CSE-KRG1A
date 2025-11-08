@@ -1,0 +1,6 @@
+com\shortestpath\algorithm\DijkstraAlgorithmTest.class
+com\shortestpath\algorithm\AlgorithmStepTest.class
+com\shortestpath\util\RandomGraphGeneratorTest.class
+com\shortestpath\algorithm\BellmanFordAlgorithmTest.class
+com\shortestpath\algorithm\AlgorithmResultTest.class
+com\shortestpath\algorithm\AStarAlgorithmTest.class
